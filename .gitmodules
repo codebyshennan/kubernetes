@@ -1,0 +1,12 @@
+[submodule "azure/kubernetes-the-hard-way-on-azure"]
+	path = azure/kubernetes-the-hard-way-on-azure
+	url = https://github.com/ivanfioravanti/kubernetes-the-hard-way-on-azure.git
+[submodule "aws/kubernetes-the-hard-way-aws"]
+	path = aws/kubernetes-the-hard-way-aws
+	url = https://github.com/prabhatsharma/kubernetes-the-hard-way-aws.git
+[submodule "gcp/kubernetes-the-hard-way"]
+	path = gcp/kubernetes-the-hard-way
+	url = https://github.com/kelseyhightower/kubernetes-the-hard-way.git
+[submodule "gcp/tutorial"]
+	path = gcp/tutorial
+	url = https://github.com/kelseyhightower/kubernetes-the-hard-way.git
